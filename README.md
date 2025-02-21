@@ -1,1 +1,3 @@
-# first-commit
+## first-commit
+
+this is my first commit in the github and I'm excited to learn and build awesome projects....
